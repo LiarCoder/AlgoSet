@@ -4,12 +4,22 @@
  * @Author: LiarCoder
  * @Date: 2022-01-17 00:39:30
  * @LastEditors: LiarCoder
- * @LastEditTime: 2022-01-17 01:52:05
+ * @LastEditTime: 2022-01-17 01:59:33
  */
 
 /* 
 更新：2022年1月17日24:39:51
 > 参考：[排序与搜索 - 面试助力，算法  101：JavaScript 描述](https://101.zoo.team/pai-xu-yu-sou-suo)
+更新：2022年1月17日01:55:00
+> 参考：[快速排序(三种算法实现和非递归实现)_Maple的博客-CSDN博客_快速排序非递归](https://blog.csdn.net/qq_36528114/article/details/78667034)
+更新：2022年1月17日01:55:35
+> 参考：[快速排序的递归方式和非递归方式 - ljy2013 - 博客园](https://www.cnblogs.com/ljy2013/p/4003412.html)
+*/
+
+/* 
+时间复杂度：O(nlog2n)
+空间复杂度：O(nlog2n)
+稳定性：不稳定
 */
 
 /**
